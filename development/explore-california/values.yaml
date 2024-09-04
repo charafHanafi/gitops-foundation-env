@@ -1,0 +1,5 @@
+appName: explorecalifornia
+imageName: localhost:5001/californiaexplore:latest
+replicas: 2
+serviceName: expcalifornie
+servicePort: 80
